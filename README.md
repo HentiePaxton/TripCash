@@ -23,3 +23,4 @@ Run npm install to install packages from package.json.
 ## Preview
 The website is not hosted anymore. See screen print below of website:
 
+![1](https://github.com/HentiePaxton/TripCash/blob/master/img/PreviewWebsite.png)
